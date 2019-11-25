@@ -1,0 +1,9 @@
+Terminal scripts for uploading files to Bela:
+
+cd /Users/mba/Desktop/radio_interior
+
+scp atfa.wav root@192.168.7.2:/root/Bela/projects/interior
+scp city.wav root@192.168.7.2:/root/Bela/projects/interior
+scp fay.wav root@192.168.7.2:/root/Bela/projects/interior
+scp fell.wav root@192.168.7.2:/root/Bela/projects/interior
+scp vok.wav root@192.168.7.2:/root/Bela/projects/interior
