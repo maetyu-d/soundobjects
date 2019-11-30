@@ -16,4 +16,6 @@ Inspired by the iconic ray-guns and death rays of mid-century science fiction, i
 
 INTERIOR recasts Maurice Maeterlinck’s Interior – an 1895 play intended for marionettes – as a generative and largely procedurally generated radio play embedded in a radio-inspired tangible artefact. While RayGun focussed on sound effects (prop sounds), INTERIOR provides a multi-layered, bi-sensory experience that can be accessed in a number of different ways. Additionally, rather than require users to travel to a specialised venue, it is self-contained and portable so that it can go to users ‘in-the-wild’. 
 
-A brief video demonstration is available here:
+
+* Code is available [here](https://github.com/matdwlv/soundobjects).
+* A brief video demonstration is available here.
