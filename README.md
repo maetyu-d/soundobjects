@@ -4,7 +4,7 @@ This Github repository contains code, documentation and supplementary informatio
 
 ## RayGun
 
-A brief video demonstration is available ![https://youtu.be/udGPyDLBV68](here).
+A brief video demonstration is available [here](https://youtu.be/udGPyDLBV68).
 
 ## INTERIOR
 
