@@ -1,4 +1,4 @@
-![](https://github.com/matdwlv/soundobjects/blob/master/dw4.png)
+![](https://github.com/matdwlv/soundobjects/blob/master/dw5.png)
 
 # Sound Objects documentation
 
