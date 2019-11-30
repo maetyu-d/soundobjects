@@ -1,3 +1,5 @@
+![](https://github.com/matdwlv/soundobjects/blob/master/dw4.png)
+
 # Sound Objects documentation
 
 This Github repository contains code, documentation and supplementary information for RayGun and INTERIOR: two projects focussed on embedded, procedurally generated audio.
