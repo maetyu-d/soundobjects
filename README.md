@@ -6,7 +6,7 @@ This Github repository contains code, documentation and supplementary informatio
 
 A brief video demonstration is available [here](https://youtu.be/udGPyDLBV68) and can be seen below:
 
-[![](https://youtu.be/udGPyDLBV68)
+[![](https://youtu.be/udGPyDLBV68)]
 
 ## INTERIOR
 
