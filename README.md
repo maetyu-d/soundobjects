@@ -4,7 +4,7 @@ This Github repository contains code, documentation and supplementary informatio
 
 ## RayGun
 
-* Code is available here [here](https://github.com/matdwlv/soundobjects).
+* Code is available [here](https://github.com/matdwlv/soundobjects).
 * A brief video demonstration is available [here](https://youtu.be/udGPyDLBV68).
 
 ## INTERIOR
