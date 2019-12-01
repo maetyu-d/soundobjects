@@ -17,5 +17,6 @@ Inspired by the iconic ray-guns and death rays of mid-century science fiction, i
 INTERIOR recasts Maurice Maeterlinck’s Interior – an 1895 play intended for marionettes – as a generative and largely procedurally generated radio play embedded in a radio-inspired tangible artefact. INTERIOR provides a multi-layered, bi-sensory experience that can be accessed in a number of different ways and, rather than require users to travel to a specialised venue, is self-contained and portable so that it can go to users ‘in-the-wild’. 
 
 
-* Code is available [here](https://github.com/matdwlv/soundobjects).
+* The *Interior* script is available [here](https://github.com/matdwlv/soundobjects/blob/master/Interior_script.md). 
+* Project code is available [here](https://github.com/matdwlv/soundobjects).
 * A brief video demonstration is available here.
