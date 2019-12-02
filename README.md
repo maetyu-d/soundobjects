@@ -19,4 +19,4 @@ INTERIOR recasts Maurice Maeterlinck’s *Interior* – an 1895 play intended fo
 
 * The *Interior* script is available [here](https://github.com/matdwlv/soundobjects/blob/master/Interior_script.md). 
 * Project code is available [here](https://github.com/matdwlv/soundobjects).
-* Brief video demonstrations are available [here](https://youtu.be/wlEpIgW7ZLY) and [here](https://youtu.be/RIccRbGfFNI) (the radio play is different each time it is played).
+* Brief video demonstrations are available [here](https://youtu.be/wlEpIgW7ZLY) and [here](https://youtu.be/gdYTVamIW0k) (the radio play is different each time it is played).
