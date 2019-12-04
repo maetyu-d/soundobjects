@@ -10,7 +10,7 @@ RayGun is a prop prototype focussed on embedded, procedurally generated audio an
 Inspired by the iconic ray-guns and death rays of mid-century science fiction, it has a twin focus: improved responsiveness relative to sample-based approaches; and highly localised, object-like sound diffusion.
 
 * Code (Bela-compatible Pd vanilla format) is available [here](https://github.com/matdwlv/soundobjects).
-* A brief video demonstration is available [here](https://youtu.be/udGPyDLBV68).
+* A brief video demonstration is available [here](https://youtu.be/m3s7V6zL9hg).
 
 ## INTERIOR
 
